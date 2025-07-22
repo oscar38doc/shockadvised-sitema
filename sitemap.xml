@@ -6,7 +6,27 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.shockadvisedcprsa.com/contacto</loc>
+    <loc>https://www.shockadvisedcprsa.com/cpr-bls-classes-nearme-rgv</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.shockadvisedcprsa.com/group-clasess</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.shockadvisedcprsa.com/our-services</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.shockadvisedcprsa.com/about-us</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.shockadvisedcprsa.com/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
